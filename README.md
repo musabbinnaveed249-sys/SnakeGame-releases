@@ -4,7 +4,7 @@ A simple Snake game for Windows, macOS, and Linux.
 
 ## Download
 
-Go to the **[Releases](../../releases)** page and download the version for your operating system. The release page also includes instructions on handling security warnings on Windows and macOS, due to the game not being digitally signed.
+Go to the **[Releases](../../releases)** page and download the version for your operating system. The **[Releases](../../releases)** page also includes instructions on handling security warnings on Windows and macOS, due to the game not being digitally signed.
 
 ### Windows
 
