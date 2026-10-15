@@ -33,7 +33,7 @@ Download the Linux ZIP, extract it, and follow the instructions in `ReadMe-Linux
 
 ## Current Version
 
-**SnakeGame v1.0.2**
+**SnakeGame v1.0.3**
 
 The game includes automatic saving for scores and level progress.
 
